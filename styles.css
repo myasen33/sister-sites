@@ -1,0 +1,31 @@
+h1{
+  font-size: 50px;
+}
+body{
+  background-color: #E7A1F4;
+  font-family: Comic Sans MS, cursive, sans-serif;
+}
+
+h2{
+  font-size: 30px;
+}
+h3{
+  font-size: 30px;
+}
+h4{
+  font-size: 30px;
+}
+h5{
+  font-size: 30px;
+}
+p{
+  font-size: 20px;
+}
+img{
+  height: 300px;
+  length: 200px;
+}
+#elephant{
+  height: 300px;
+  length: 400px;
+}
